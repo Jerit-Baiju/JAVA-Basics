@@ -7,3 +7,9 @@ public class hello_world {
         System.out.println("Hello World");
     }
 }
+
+// public class {program-name}{
+//     public static void main(String[] args) {
+//         {statements}
+//     }
+// }
